@@ -18,6 +18,12 @@ msgstr ""
 msgid "msgid \"文字列を扱う"
 msgstr ""
 
+msgid "[sup]上つき文字[/sup]"
+msgstr ""
+
+msgid "[sub]下つき文字[/sub]"
+msgstr ""
+
 msgid "[b]文字列[/b] 太字"
 msgstr ""
 
