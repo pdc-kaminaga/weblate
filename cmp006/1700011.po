@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1700011.po conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-14 14:45+0900\n"
+"PO-Revision-Date: 2019-06-14 14:45+0900\n"
+"Last-Translator: \n"
+"Language-Team: Japanese (Japan)\n"
+"Language: ja-JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: ja-JP\n"
+"X-Loco-Api-Version: 1.0.23 20190612-1"
+
+msgid "msgid \"文字列を扱う"
+msgstr ""
+
+msgid "[b]文字列[/b] 太字"
+msgstr ""
+
+msgid "[i]文字列[/i] 斜体"
+msgstr ""
+
+msgid "[u]文字列[/u] 下線"
+msgstr ""
+
+msgid "[s]文字列[/s] 中線"
+msgstr ""
+
+msgid "[big]文字列[/big] 大きく(17px 通常は13px)[1]"
+msgstr ""
+
+msgid "[small]文字列[/small] 小さく(10px)[1]"
+msgstr ""
+
+msgid "[center]文字列[/center] 中央に表示"
+msgstr ""
+
+msgid "色をつける"
+msgstr ""
+
+msgid "[color=#888888]文字列[/color] 色をつける(16進数コード)"
+msgstr ""
+
+msgid "[color=red]文字列[/color]色をつける(色名)"
+msgstr ""
+
+msgid "リンク"
+msgstr ""
+
+msgid "[url=http://scratch.mit.edu/]リンク[/url] リンク"
+msgstr ""
+
+msgid "画像"
+msgstr ""
+
+msgid "[img]https://scratch.mit.edu/images/logo_sm.png[/img] "
+msgstr ""
+
+msgid "特殊なリンク"
+msgstr ""
+
+msgid "[google]Wiki[/google] Google英語版での検索"
+msgstr ""
+
+msgid "[wiki]Scratch[/wiki] Scratch Wiki英語版への転送"
+msgstr ""
+
+msgid "[wiki=転送先]表示文字列[/wiki] Scratch Wiki英語版への転送"
+msgstr ""
+
+msgid "[wiki]ja:Scratch[/wiki] Scratch Wiki日本語版への転送"
+msgstr ""
+
+msgid ""
+"[dictionary]Block[/dictionary] http://dictionary.reference.com による辞書へのリンク"
+msgstr ""
+
+msgid "[wp]Wiki[/wp] [wikipedia] [/wikipedia]のショートカット"
+msgstr ""
+
+msgid "箇条書き"
+msgstr ""
+
+msgid "[list]"
+msgstr ""
+
+msgid "[*] 項目1"
+msgstr ""
+
+msgid "[*] 項目2"
+msgstr ""
+
+msgid "."
+msgstr ""
+
+msgid "[/list]"
+msgstr ""
+
+msgid "list=1]"
+msgstr ""
+
+msgid "顔文字"
+msgstr ""
+
+msgid "BBCodeの顔文字"
+msgstr ""
+
+msgid "次の顔文字が使える。"
+msgstr ""
+
+msgid " :) または =)"
+msgstr ""
+
+msgid " :| または =|"
+msgstr ""
+
+msgid " :( または =("
+msgstr ""
+
+msgid " :D または =D"
+msgstr ""
+
+msgid " :O または :o"
+msgstr ""
+
+msgid " ;)"
+msgstr ""
+
+msgid " :/"
+msgstr ""
+
+msgid " :P"
+msgstr ""
+
+msgid " :lol:"
+msgstr ""
+
+msgid " :mad:"
+msgstr ""
+
+msgid " :rolleyes:"
+msgstr ""
+
+msgid " :cool:"
+msgstr ""
+
+# There were errors exporting to PO file
+msgctxt "Loco"
+msgid "PO render errors"
+msgstr ""
+"Duplicate message: .\n"
+"Duplicate message: .\n"
+"Duplicate message: [*] 項目1\n"
+"Duplicate message: [*] 項目2\n"
+"Duplicate message: .\n"
+"Duplicate message: .\n"
+"Duplicate message: .\n"
+"Duplicate message: [/list]"
